@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name" : "iPhone 13 Pro",
+        "price" : 999,
+        "description" : "The iPhone 13 Pro features a 6.1-inch"
+    },
+    {
+        "id" : 2,
+        "name" : "Samsung Galaxy S21",
+        "price" : 799,
+        "description" : "The Samsung Galaxy S21 features a 6.2-inch display and a powerful Exynos 2100 processor."
+    },
+    {
+        "id" : 3,
+        "name" : "Google Pixel 6",
+        "price" : 599,
+        "description" : "The Google Pixel 6 features a 6.4-inch display and is powered by Google's custom Tensor chip."
+    },
+    {
+        "id" : 4,
+        "name" : "OnePlus 9 Pro",
+        "price" : 969,
+        "description" : "The OnePlus 9 Pro features a 6.7-inch display and is powered by the Qualcomm Snapdragon 888 processor."
+    },
+    {
+        "id" : 5,
+        "name" : "Sony Xperia 1 III",
+        "price" : 1299,
+        "description" : "The Sony Xperia 1 III features a 6.5-inch display and is powered by the Qualcomm Snapdragon 888 processor."
+    }
+]
